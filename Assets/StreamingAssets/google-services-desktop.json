@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "624977027051",
+    "firebase_url": "https://apisave-60a97-default-rtdb.firebaseio.com",
+    "project_id": "apisave-60a97",
+    "storage_bucket": "apisave-60a97.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:624977027051:android:00949e500d643fe25283ae",
+        "android_client_info": {
+          "package_name": "co.Mygame.projetoambiental"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4qmgO9tn3H_8QzmyXLCZCEERIf37_lF0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:624977027051:android:712ab775aa614f785283ae",
+        "android_client_info": {
+          "package_name": "co.mygame.test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4qmgO9tn3H_8QzmyXLCZCEERIf37_lF0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:624977027051:android:095e01365f742d7d5283ae",
+        "android_client_info": {
+          "package_name": "co.myproject.jogoambiental"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4qmgO9tn3H_8QzmyXLCZCEERIf37_lF0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

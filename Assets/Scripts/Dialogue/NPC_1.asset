@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6a2f5d7ccd6c55946b2ee546a08c0a2d, type: 3}
+  m_Name: NPC_1
+  m_EditorClassIdentifier: 
+  actor: {fileID: 5726728807121682732, guid: e0f4b995625df5143af596b92e6a3c52, type: 3}
+  hairSprite: {fileID: 0}
+  speakerSprite: {fileID: 7441710285289572212, guid: 005409f8bcd3d40438394faae6a18f95, type: 3}
+  sentence: 
+  dialogues:
+  - actorName: Maria
+    profile: {fileID: -1940738496428130850, guid: 9cb69c204720b9349989d3d78e914304, type: 3}
+    sentence:
+      portuguese: Bom dia a todos
+      english: 
+      spanish: 
+  - actorName: Maria
+    profile: {fileID: -1940738496428130850, guid: 9cb69c204720b9349989d3d78e914304, type: 3}
+    sentence:
+      portuguese: Espero que gostem do nosso projeto
+      english: 
+      spanish: 

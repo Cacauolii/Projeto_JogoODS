@@ -1,0 +1,6389 @@
+fileFormatVersion: 2
+guid: 4e71fef71c8d7bb4694b3b4b664561e0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9059340868739503681
+    second: Example Scene_0
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Example Scene_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 970
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb96a937a71c64280800000000000000
+      internalID: -9059340868739503681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_1
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 970
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f070cf388aad73b4aa8afe1c594d2821
+      internalID: 1665108244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_2
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 970
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76168a1c61ad7144eb27a8bf70fc131c
+      internalID: 807598092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_3
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 970
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc61d8703d21942429888844b33b9bd7
+      internalID: -1198851807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_4
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 970
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a83f69497dc673644852ba27e1447d71
+      internalID: 1594298447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_5
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 970
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e50e93e5b934075489ecda582589fe01
+      internalID: 595043839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_6
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 970
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38751a1662dac9d4bbe421872b27068d
+      internalID: 464870156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_7
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 970
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5afc4b3e1cb082849ab23bfc2931b300
+      internalID: 1256465767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_8
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 970
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68221df3e2a737a46a58fecabc21cff1
+      internalID: 1111026885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_9
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 970
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbdff249d0d91ba4c90aa9dcd33dcf39
+      internalID: -1962186107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_10
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 970
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1a43168626a8674c91b7b89dbf23e94
+      internalID: -186134619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_11
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 970
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0fc4ced1b26f9d48afc28ab0cb5dfc3
+      internalID: -1399201930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_12
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 970
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e847378d53517fa4ab816fe184e208ac
+      internalID: -2141733967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_13
+      rect:
+        serializedVersion: 2
+        x: 1222
+        y: 970
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03edfe01f1e273a42b31176aafa18622
+      internalID: -641222873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_14
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 970
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6b1deb76ef2ff946aacfebdf98ecd79
+      internalID: -1197615231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_15
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 970
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2716ed4d745af04b8383eb5c7323d0c
+      internalID: -1932169816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_16
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 970
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 084fba7c1aa6438479588e02e7f28c2f
+      internalID: 2101588236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 906
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6abf3a2e9648da43a41f1a34326457b
+      internalID: 1404338140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_18
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 906
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 979c1feb03361584ea7bfb5e05025d50
+      internalID: 1065770339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_19
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 906
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df530d33ac8749446956f5be47e6d50e
+      internalID: -1928263399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_20
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 906
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 160f95e6cd96bfe4abab52cebb1ca61f
+      internalID: -1653606880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_21
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 906
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d09cc8237cf7d684eb21cdbdbbe9b054
+      internalID: -946568397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_22
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 906
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf906723e84c81f43bff02cdc3a4cd31
+      internalID: -281485975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_23
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 906
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7710b6ba8ba61134aba9268092c5331d
+      internalID: -1595422624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_24
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 906
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b95bda43ece1a743ba9e6b2a9eb5b62
+      internalID: -191849932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_25
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 906
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5d4c4ca4b1bac847ada7ea75a510151
+      internalID: 943390281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_26
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 906
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2e3cf817fde16b4eabee28ea2ca4b6d
+      internalID: 98353805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_27
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 906
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0978a0ef4fafcc645868f49d378b2b1d
+      internalID: 471049326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_28
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 906
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 512e8d6d5f1dfcb459e8c8b7aaaec5d1
+      internalID: 1586509479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_29
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 906
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2447eeca772b91e40827306d09a780cb
+      internalID: 1631301285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_30
+      rect:
+        serializedVersion: 2
+        x: 1222
+        y: 906
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1496efd10f222c4aadaa3282399212b
+      internalID: -1815398453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_31
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 906
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf32bf2c357c7c84b8319e7b38feefef
+      internalID: -599617656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_32
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 906
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ed6c2b7fca816147ba5c49eceb11215
+      internalID: 904810128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_33
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 906
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64485c8df1fb46c44a15ea013eb59f61
+      internalID: -352768442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 842
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 130f9a87b3e07224a9108b06459a071b
+      internalID: 2111074256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_35
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 842
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c366db198717f36409dc99a896c6ad42
+      internalID: 1915508621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_36
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 842
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83c8add5a62a2d2498b4a2622e5309d8
+      internalID: 1587370949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_37
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 842
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44eaeb6f456046040bdee0c820bf2ca8
+      internalID: -2102514478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_38
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 842
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a6dbd6d4fd95aa4a8897c0e0998df3b
+      internalID: 1487926821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_39
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 842
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 357fe658a5627734ca392ca958a1ab06
+      internalID: 1115288292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_40
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 842
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b3cb4016ce7a244f999297da1fe99ca
+      internalID: -285256192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_41
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 842
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cca2a19a64a32847869a62cbf6c331e
+      internalID: -684308926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_42
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 842
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e505e0b8913310479795e5251f6ca72
+      internalID: -1505363942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_43
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 842
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57d9d9005c740d4409da64c98f662255
+      internalID: -1405779236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_44
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 842
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb049cc820f337842849039ae93f7ab8
+      internalID: -1224506048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_45
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 842
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97e925cdbbacada4abb4f4d64bbd9267
+      internalID: 391741624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_46
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 842
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d21e10e095bfcfd479956fb218246e59
+      internalID: 968449818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_47
+      rect:
+        serializedVersion: 2
+        x: 1222
+        y: 842
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af856aa6bb3f67e48a32ebeb8a913f22
+      internalID: -999032943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_48
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 842
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 048970b30f6600e4f9875930f0c412a3
+      internalID: 1663616300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_49
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 842
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b37a19932eb1c1743b955ba1c84c0654
+      internalID: 1856323278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_50
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 842
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4269b0b42d2db5846bc86e2cad9aa8e0
+      internalID: -859283134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_51
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 778
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b6c80f14c55eb74289397104b02be2e
+      internalID: 725437829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_52
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 778
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b02aff00b52cf7f499383bb8c3ac0047
+      internalID: -883953531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_53
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 778
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0524096b68d7264bbbf49322dffd847
+      internalID: -9363934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_54
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 778
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feb0747fa9dd460498b39eca566342cc
+      internalID: -1274538343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_55
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 778
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9cadfd7eb8507e469acd52d17a23a4c
+      internalID: 1079588386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_56
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 778
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7c1cbaac53170c43981a84e2d0b17c5
+      internalID: -1857687176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_57
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 778
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd440d0ec41abb8469305e3852b157eb
+      internalID: 2002381960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_58
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 778
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2fb0bc677b76c9419068498321440fd
+      internalID: -1936289693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_59
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 778
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f720d9593579a0044bb754b6c8f62ec3
+      internalID: -1370149880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_60
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 778
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d63bd6613e153b44d99c9ed1fad31527
+      internalID: -1385347236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_61
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 778
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19518e30c58b92747a1e63d440d57d25
+      internalID: 2025828006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_62
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 778
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 589681af6cc06694ca6f643ef8592c80
+      internalID: -1198273404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_63
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 778
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ba8148d921e69a45bda979497488a61
+      internalID: 1357092366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_64
+      rect:
+        serializedVersion: 2
+        x: 1222
+        y: 778
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fbb9aac9746b134fb169f5723c4802f
+      internalID: 805232453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_65
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 778
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7d90d113f6fd014e918d15eacc20412
+      internalID: -1532452026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_66
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 778
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44c86c93608259c41b18403cabc24c50
+      internalID: -2120156667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_67
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 778
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 383ea808f08912f40b6389ebee73400f
+      internalID: 1126886582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_68
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 714
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ee961c78656bce42922db7b873e0b1f
+      internalID: 1360748384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_69
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 714
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0ab793702791104c91e4ca0647fe7bf
+      internalID: -503252299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_70
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 714
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8037d77daf62bde408109608a60aff3b
+      internalID: -139049848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_71
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 714
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4451e20d42d71643a3a00879018dd4f
+      internalID: -757949822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_72
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 714
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26dbb03b093e1e94eab84def532af3b1
+      internalID: 1437494889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_73
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 714
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac5ec4df1d7009948a1600a819bb2b25
+      internalID: 526243778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_74
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 714
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a78d33ae573f6a4a8ba9f9fd91afd60
+      internalID: 303199652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_75
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 714
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b155f54d105ee7b4dabdc25df62536cf
+      internalID: 893390336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_76
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 714
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25ead1ee1030da84a851f50b50624ec1
+      internalID: -1546335132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_77
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 714
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83e108649d43e614981899b8d57b7cb6
+      internalID: 433199465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_78
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 714
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b51c292c10adfda47a94eaf17c4918a4
+      internalID: -392529174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_79
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 714
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aff868f9f147764cac3994ffa6cc081
+      internalID: -385915506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_80
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 714
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1556dfc9a03f0b1499df19f6f985158c
+      internalID: -1571745131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_81
+      rect:
+        serializedVersion: 2
+        x: 1222
+        y: 714
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fefdf44b18f003f4d815f0ac43ac8f3f
+      internalID: 1386650239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_82
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 714
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6894d4fbee2276d45a69b6a92a3488d1
+      internalID: -501727389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_83
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 714
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ea17deeff6fb764ca1a0e71fb7e037c
+      internalID: 1795449356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_84
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 714
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efab01a2e4f9316439f59758f76390a4
+      internalID: -1885834592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_85
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 650
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcf16be06151a4f4e86d2a07b589967f
+      internalID: -612419768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_86
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 650
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c17c8b28fa95074f9afb431ea5ae00c
+      internalID: 1215141955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_87
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 650
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e14bc2e22735634e8d318085f00d786
+      internalID: 1958096826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_88
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 650
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edd00f94cb28e7b4f9e7fad06fd172cd
+      internalID: -444361665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_89
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 650
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 724bc2ee25e518d49a8d295cbfc8b56e
+      internalID: 2139552503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_90
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 650
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a7c5476110c12a4c96f3b6c20999e23
+      internalID: 2142113124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_91
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 650
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd38ebd0e4400e74c85b7a05c06b212b
+      internalID: -1753230339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_92
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 650
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dbc5873575bb744891b6aadf39d00f1
+      internalID: 530919855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_93
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 650
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fb7564596060eb4a87a5f69fbbc00d1
+      internalID: -1859895172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_94
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 650
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 686c9e945f2d1a24fb5bcf0317b1a707
+      internalID: -735460431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_95
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 650
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f6e797541e29404781d22f7ea92f9bb
+      internalID: 454516453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_96
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 650
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c339a7d0d01f0043a7d1883fe6002f7
+      internalID: -1665854364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_97
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 650
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a4897dae2fde854a93cbf9a1af30670
+      internalID: 1770346862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_98
+      rect:
+        serializedVersion: 2
+        x: 1222
+        y: 650
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 029ffd584fc83ca498c3510ccc7b2b1c
+      internalID: -23825883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_99
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 650
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fc56d4b38ab7c345acceebb0f6321f5
+      internalID: -728040766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_100
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 650
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a15eb356fbb95e49a1122c5b56b57ae
+      internalID: 298655440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_101
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 650
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a45212effaed1cd4894e1e7afb27b0fc
+      internalID: 509733986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_102
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 586
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4d158d31daf18846b1a25b58e9bd5d7
+      internalID: 532183812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_103
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 586
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe31ba96e1d3f5e4eb8ab7b2cecc7aaa
+      internalID: 1420428055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_104
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 586
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87e20b1c8554d824aa6a906e41bcbde4
+      internalID: -1439424522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_105
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 586
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a45b3b58af132fe4cbdc33c20ae5eab0
+      internalID: 1299323572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_106
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 586
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c5ec834062b1e0459723127cf1ca31e
+      internalID: -801515292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_107
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 586
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1be995d36bc2eca4cb9db4463c02b85b
+      internalID: -1421103724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_108
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 586
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cecad0172122ea4d86a456382b202a1
+      internalID: 1812471343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_109
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 586
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65f6de07e4d724841ae73d29df78759b
+      internalID: -1188700736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_110
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 586
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd500df986b528b42a65862df620e75d
+      internalID: 484722810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_111
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 586
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4e31ee13d623594bbc8f096dce7e1e4
+      internalID: 426209877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_112
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 586
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f6e88aae9bf8104eb203e5bd03e8e0b
+      internalID: -2091707835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_113
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 586
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb215a2ea85b2ca4fac7152b8e30d009
+      internalID: -1872293846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_114
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 586
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92ebd80ccf747e142823ac67f3a76fb4
+      internalID: -3086636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_115
+      rect:
+        serializedVersion: 2
+        x: 1222
+        y: 586
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db9cfc73c56fe204a918cc6179910d03
+      internalID: 181454792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_116
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 586
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c437471ba05e4248bc0015b81a5bd0e
+      internalID: 856435084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_117
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 586
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43cec157c1b039f41b5048c1920f8637
+      internalID: 2120807036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_118
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 586
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 872128c8fea9d6246b21c0302fff9dcd
+      internalID: 861999083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_119
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 522
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dfd38fb72dc158409531cee7d481b88
+      internalID: 1910620976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_120
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 522
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 250e7162a63e15b49b05a24ffec78f20
+      internalID: -1515894326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_121
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 522
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adede21c0dd308c4f96657dadf965fc9
+      internalID: -193580036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_122
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 522
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ca2b7cd4fd3cf04196c0aa325f1cde9
+      internalID: -1334474165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_123
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 522
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f4176f563ff1bd4484e6f0fd1c6c1b5
+      internalID: 169955044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_124
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 522
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 591b233fd12305c46acde7f9e1a856e1
+      internalID: 733913068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_125
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 522
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c20c75c8e2bf64645bd6b7dbc0c03d8a
+      internalID: -1911122337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_126
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 522
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 759ab1fcf8f348a408127ada8fa720f7
+      internalID: -811720324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_127
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 522
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7702cb2b3f8a8846a482c8f9cb4dc90
+      internalID: -333818368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_128
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 522
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 159f477f017f2cb46a601ea375cf4296
+      internalID: 1297456148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_129
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 522
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a8fe4a7f206af84aaf98c78573fe2f3
+      internalID: 1272467466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_130
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 522
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 887308d9651f1d24cbb0c037c5994e29
+      internalID: -1742134258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_131
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 522
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ec3f43162f1a534780899dfb671ae9f
+      internalID: -1704713532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_132
+      rect:
+        serializedVersion: 2
+        x: 1222
+        y: 522
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3489ba58fd6b31448ee631ef1c3bf51
+      internalID: -1962762299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_133
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 522
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 335091aa30ad5c74b9cd2d24f995ed23
+      internalID: 799233548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_134
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 522
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de65c06df85b46f45b5ab0ad6ba9bdf6
+      internalID: 1919853449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_135
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 522
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f8c20c449d4f144da9fcc8c0e67df39
+      internalID: -1021476967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_136
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 458
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09bd5bab8a2601642882272a2f1afabb
+      internalID: -1180910176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_137
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 458
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e50ca608b1a33fe488bb6da8f8ea7867
+      internalID: -337535118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_138
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 458
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1501f8279d419d745b6aa87cf68df123
+      internalID: -1113879774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_139
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 458
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4a95c605f5fa4949b613a0d5984575b
+      internalID: 2136780634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_140
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 458
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdd588757f2158b46a4f62ca0355bb27
+      internalID: -1069845931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_141
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 458
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7251567f44ae48b46b178c66e12f466c
+      internalID: -812014881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_142
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 458
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 083ee08c979161a4b8b1bf5b451bba01
+      internalID: -1096419454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_143
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 458
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25e146cc577e46547ae154fffb8b10df
+      internalID: -1280292389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_144
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 458
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dd16557f56e40547b9df1410b5917b1
+      internalID: -194910612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_145
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 458
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0891e60b0d09caa43a21f3d44be77cef
+      internalID: -1509084125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_146
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 458
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a18a7e66c148b57498cb6bf6031dd46a
+      internalID: -865978941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_147
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 458
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5282ac9f16bef74492349f9ce5eaabd
+      internalID: -1188748066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_148
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 458
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16dfd6192a7e24e4e974addf1e8b6fcb
+      internalID: 1066316184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_149
+      rect:
+        serializedVersion: 2
+        x: 1222
+        y: 458
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10ef25a2a3c6d724aa90c8fb444b57c2
+      internalID: 1822615849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_150
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 458
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7ad976e0f9e8c44fbd00f1b13b12f05
+      internalID: -781145818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_151
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 458
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec30c4287604dee40902852d23b61b0b
+      internalID: 204975835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_152
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 458
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abea73b95d60c2642b452c4667854ce4
+      internalID: -1011431613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_153
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 394
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6605a3cc8fc47d64d8ccb024f0abc754
+      internalID: 569233336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_154
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 394
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9cc0e3d3feb6a643ad17a44e7aa07dc
+      internalID: 485609325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_155
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 394
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b581545e9e1c8a4e9c5f2ae8e7bcb12
+      internalID: 1408484145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_156
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 394
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dcd02614f17e6f4e8e0a443eb029f51
+      internalID: 115594025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_157
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 394
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 805cdfd6835e16b4cbd21a1a5bd82085
+      internalID: -1830432247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_158
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 394
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaa8aa298bc265845b32989d603c9ebe
+      internalID: -1980511427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_159
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 394
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f349292113b09c4fb3ad32bb9127150
+      internalID: -2045388472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_160
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 394
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a3980b157efa6a4abb1eca41a37fba4
+      internalID: 44626628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_161
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 394
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1460025037d66d44e8ae33de88287db9
+      internalID: -2091632768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_162
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 394
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01b7255b06773774a96e7aba42ca26d8
+      internalID: 2061315654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_163
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 394
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1e5a18fbaa55184087769c0644a5340
+      internalID: -1802466919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_164
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 394
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f93046f61045c1a46aabf64f30618827
+      internalID: -764603553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_165
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 394
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b01a6a6514708248b76e8c194ce8b63
+      internalID: -1950781965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_166
+      rect:
+        serializedVersion: 2
+        x: 1222
+        y: 394
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54bda80bc3a0fb74f85a55ba779bbb80
+      internalID: 1396627561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_167
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 394
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a7c67c3ca668ac40aa10d21f1d94fc0
+      internalID: -307876205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_168
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 394
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2676384a13a794742a2b1e4a0266f016
+      internalID: 2012725033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_169
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 394
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e5ca7d33bd9e8a448eead6e476f7e7d
+      internalID: -1453602679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_170
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 330
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1feac072c2833bf41a68a2f552695a20
+      internalID: -138040471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_171
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 330
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3310b48105f1f5408890ee9b158e8a1
+      internalID: -1149067740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_172
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 330
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfaaf0522c367ca4da9c8be61816546c
+      internalID: -351202613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_173
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 330
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6766cc7beadc42468ab673e1db55261
+      internalID: 1041814146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_174
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 330
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a58f9748660b6344f9cd4d5c292c4e61
+      internalID: 1285426349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_175
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 330
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78fcb6cb228e5224c84e594e2ebfd90b
+      internalID: 325614967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_176
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 330
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db8173e13341b1149b770d11394c3176
+      internalID: -658851380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_177
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 330
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81fdeccde1e26f44e89c016d53fdbf90
+      internalID: -871731499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_178
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 330
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a7b8a5ac44ab3847a8d2550470d55cc
+      internalID: 672334449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_179
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 330
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d8066e80ef28ee46b9a1dfc31694261
+      internalID: -992438717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_180
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 330
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a5719b663d5f6c459b569f0dbf3a37e
+      internalID: -1025252962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_181
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 330
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41bb1693b7555954c977b7c6bef84dd5
+      internalID: -856469560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_182
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 330
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3c93fea315000b4086dfae4e42c55d9
+      internalID: 233583726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_183
+      rect:
+        serializedVersion: 2
+        x: 1222
+        y: 330
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79cc018207d0e0c48852fd9710712041
+      internalID: -1082845142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_184
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 330
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbc7bee6a71700b4594da54adca420d2
+      internalID: -1298411993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_185
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 330
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d87390448a89b54d9edd180d238ad98
+      internalID: -1593566351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_186
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 330
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef7c740d51dc20248902280231d11c93
+      internalID: -990503280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_187
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 266
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fac4852f45e1a1241aa8e080c84d6fb0
+      internalID: -760933778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_188
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 266
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef6ae774e1dccb9469665f16a5a0502b
+      internalID: -1962667028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_189
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 266
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b4d2b0edc0d37742a3c97b2490da0a5
+      internalID: -942022172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_190
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 266
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c4cd7b1778e2924eb97118e24e620c4
+      internalID: 1434994739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_191
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 266
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0111d1e88565bb44c820f36ae402d4ab
+      internalID: -236496294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_192
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 266
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 810b58701938a444f994b4771b15477a
+      internalID: 1403391667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_193
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 266
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7aa42865c74b6d4494fdb1cca137226
+      internalID: -1788613569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_194
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 266
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e735028ac5d36b49923f764404f2907
+      internalID: -1404357801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_195
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 266
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5daea1facef2ffc44964fd034b653394
+      internalID: 1372359197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_196
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 266
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe711c517ff75504cabd72578ef82fdb
+      internalID: 542829856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_197
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 266
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02e2f27122cfa1c489d9d1b0c3ab7614
+      internalID: -1798492634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_198
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 266
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f32236d13a3830c46812eb13f3d6d0a0
+      internalID: -1248120991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_199
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 266
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5729bc844abc3884d84160361c2664c3
+      internalID: 1269876205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_200
+      rect:
+        serializedVersion: 2
+        x: 1222
+        y: 266
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40ed5d4d90ad47646ae8a78a4ef5e9f2
+      internalID: 130970711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_201
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 266
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6ff6146c05cbd3408f5649b7ebcdbcc
+      internalID: -872378016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_202
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 266
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9c730d54999b374b98e7dbda60def16
+      internalID: -1843105797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_203
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 266
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df9ddec1d8fca51418f35b7e79d137cb
+      internalID: 17856918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_204
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 202
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11ee4c8f1cb59c9479f1b2e9014b1d73
+      internalID: 873498031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_205
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 202
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2a57423648ab874c9e5caa47aaa728c
+      internalID: -2100802447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_206
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 202
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1059f2b4038f5144fabc7549649c14fc
+      internalID: -691749000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_207
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 202
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa50ced79fa13464087f1c3bcf63f1d5
+      internalID: 883305686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_208
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 202
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b475f0b0057d3bf43aefc943cae76214
+      internalID: 48218204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_209
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 202
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c6831424d7170d4b8e06fa252e92c03
+      internalID: -1717262966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_210
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 202
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef4a0aed3cb9c6b438518377e8f826ad
+      internalID: -1444640780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_211
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 202
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 306c338c281805749af9850cfe602866
+      internalID: 1898225607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_212
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 202
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 578187e0422ca044298475a30ddd95c5
+      internalID: -906534857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_213
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 202
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f7da366f2f7d0343a91cef01db38895
+      internalID: -749959068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_214
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 202
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e9ba22ff5364f94ba29dc6dc174d228
+      internalID: -427634850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_215
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 202
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d82c39a6ff4bcde4aadf88de851cd050
+      internalID: -729394372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_216
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 202
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88cf19858d27d304c932937e9942855d
+      internalID: -1338496411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_217
+      rect:
+        serializedVersion: 2
+        x: 1222
+        y: 202
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1ef19acdcd15f247a141097fa98fad6
+      internalID: -45357465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_218
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 202
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc315a63d50298e4792ecd9d10ead038
+      internalID: -1046932330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_219
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 202
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ece1d8c40078ad84f97faedc2062b08a
+      internalID: -748750993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_220
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 202
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7107f6cd4dc19f3419a508149e301d2c
+      internalID: 243471123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_221
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 138
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f73e5ef0a8444fc4da6e3c092305ee64
+      internalID: -840330150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_222
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 138
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6143040541e9624e850fdc777b11c3c
+      internalID: -287926197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_223
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 138
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dd946defa68f6843ac56d4682e71393
+      internalID: 1891827237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_224
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 138
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce879d9d9f777264d998603ba0ca08f3
+      internalID: -1804391770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_225
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 138
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 757e1aa34d994ba4c94b82938e6d35f1
+      internalID: -1148483829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_226
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 138
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e3b2c150290c3d47a8ffeab08c0dd48
+      internalID: 1533376862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_227
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 138
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d88c299ea5f94624db8f060eec6069ae
+      internalID: 1040818092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_228
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 138
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ea51636d00771c42836d1bf5e90ce53
+      internalID: 1514376258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_229
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 138
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5c8343040d1af9459bd8af06d8f36df
+      internalID: 765781721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_230
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 138
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d4eb0b5bba7bb84193d090201fdac8e
+      internalID: -1732438883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_231
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 138
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fea3f5bdd0495941a7d82f0e3e4ec7c
+      internalID: 1910408252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_232
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 138
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 876ee418908ecb64486e20582af81bfd
+      internalID: -572976345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_233
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 138
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90aace07d3c3b20458d4a01c5e3ad9c1
+      internalID: 1783451564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_234
+      rect:
+        serializedVersion: 2
+        x: 1222
+        y: 138
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9f960eae8f79af4094aa6f249218cf2
+      internalID: -370639626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_235
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 138
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf2256a09028d4541808cc0d2a631458
+      internalID: -1787643486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_236
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 138
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 639228baf648c084ca6a575670989132
+      internalID: 262326650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_237
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 138
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2daeeef367daad84c92ceb791dae7c6d
+      internalID: -513619167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_238
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 74
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3ed66fa575ae5444a6473569939a4e6
+      internalID: 1888623086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_239
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 74
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe1a1f08bf462444fac60cb6730abe48
+      internalID: -1221895076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_240
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 74
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b6e98c6b422de74099804cce78100be
+      internalID: 627618793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_241
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 74
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68ef3a9be1d3d714c8a7906690fb0b33
+      internalID: -537820059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_242
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 74
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 941516f419a1a1048966a5c0f745d7f6
+      internalID: -1601567709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_243
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 74
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fe93fa58aee5a74ea34b28dd9dea4a0
+      internalID: 907014834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_244
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 74
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5305c08d2c821094091adee137ea213b
+      internalID: 1873175400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_245
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 74
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad1b8278bfbbcbe48a5f7bb264f5e1bc
+      internalID: -857227489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_246
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 74
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1f6635b3aad5b642adfda26f2aa04c5
+      internalID: 822556988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_247
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 74
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4902df23b1b3fe408f4e2f6cefd9ef7
+      internalID: 1328974214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_248
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 74
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3551fe93c74a2d24d89088fc2e89a047
+      internalID: 479951032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_249
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 74
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c35731d17eb031842888a418b350daa6
+      internalID: -559147598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_250
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 74
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fee5c7be56d49b47997b5a32f80dc7d
+      internalID: -2104710573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_251
+      rect:
+        serializedVersion: 2
+        x: 1222
+        y: 74
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8125b2a7dd157045904e61105c2221c
+      internalID: -585996921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_252
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 74
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1673db936c0fc504d949913325584ed2
+      internalID: -1662985384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_253
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 74
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38e864e70b96321408684111ba42c9ea
+      internalID: -817755772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_254
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 74
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0ca924524fe22a4ea759f75592db18f
+      internalID: -1938767011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_255
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 10
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0495411c5a26bf42960fd8dde08d4eb
+      internalID: 940754410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_256
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 10
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da24295bd2eb75242ae1b4893ba29a70
+      internalID: -2087655027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_257
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 10
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73b28486ae35f3d439fa31aea5aaa417
+      internalID: -1801058948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_258
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 10
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 973e4e9795e939d4cb4adb8c1f038c35
+      internalID: 1940880193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_259
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 10
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 724974c131c3e584a9594edc4aed2fce
+      internalID: -832306418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_260
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 10
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62052052fbb8d3f4da69950c7533efac
+      internalID: 1623967015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_261
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 10
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8ce18dabc87cf34595733a4a803c299
+      internalID: -1730882349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_262
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 10
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e06bc04580316b241b166370b90fdae1
+      internalID: 60362288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_263
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 10
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fdba75b814d1a243bb14c0ebefcdbfd
+      internalID: 1969108370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_264
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 10
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9150e7dc8707d4a4ba268ec54fcfb470
+      internalID: 580805374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_265
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 10
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4974bc0988716e44cb10e994ef070c1e
+      internalID: 1336200542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_266
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 10
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0466bd5f17041b4ab4e47702b0d5a45
+      internalID: -25796474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_267
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 10
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc6c3641bbce8c04487f55b9a45734f0
+      internalID: 59775609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_268
+      rect:
+        serializedVersion: 2
+        x: 1222
+        y: 10
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c47ec27500531764395b671cd09c95aa
+      internalID: -1564563906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_269
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 10
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 722009738eb482a458d73837b2826012
+      internalID: 387675617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_270
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 10
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 032ac329997845e429ab93e061fba646
+      internalID: 1775659405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Example Scene_271
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 10
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5470b33f610b71b459c26dc5b3abcadf
+      internalID: 1322758941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 8c607e3549bc94f429a2e9c90b96fe65
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Example Scene_0: -9059340868739503681
+      Example Scene_1: 1665108244
+      Example Scene_10: -186134619
+      Example Scene_100: 298655440
+      Example Scene_101: 509733986
+      Example Scene_102: 532183812
+      Example Scene_103: 1420428055
+      Example Scene_104: -1439424522
+      Example Scene_105: 1299323572
+      Example Scene_106: -801515292
+      Example Scene_107: -1421103724
+      Example Scene_108: 1812471343
+      Example Scene_109: -1188700736
+      Example Scene_11: -1399201930
+      Example Scene_110: 484722810
+      Example Scene_111: 426209877
+      Example Scene_112: -2091707835
+      Example Scene_113: -1872293846
+      Example Scene_114: -3086636
+      Example Scene_115: 181454792
+      Example Scene_116: 856435084
+      Example Scene_117: 2120807036
+      Example Scene_118: 861999083
+      Example Scene_119: 1910620976
+      Example Scene_12: -2141733967
+      Example Scene_120: -1515894326
+      Example Scene_121: -193580036
+      Example Scene_122: -1334474165
+      Example Scene_123: 169955044
+      Example Scene_124: 733913068
+      Example Scene_125: -1911122337
+      Example Scene_126: -811720324
+      Example Scene_127: -333818368
+      Example Scene_128: 1297456148
+      Example Scene_129: 1272467466
+      Example Scene_13: -641222873
+      Example Scene_130: -1742134258
+      Example Scene_131: -1704713532
+      Example Scene_132: -1962762299
+      Example Scene_133: 799233548
+      Example Scene_134: 1919853449
+      Example Scene_135: -1021476967
+      Example Scene_136: -1180910176
+      Example Scene_137: -337535118
+      Example Scene_138: -1113879774
+      Example Scene_139: 2136780634
+      Example Scene_14: -1197615231
+      Example Scene_140: -1069845931
+      Example Scene_141: -812014881
+      Example Scene_142: -1096419454
+      Example Scene_143: -1280292389
+      Example Scene_144: -194910612
+      Example Scene_145: -1509084125
+      Example Scene_146: -865978941
+      Example Scene_147: -1188748066
+      Example Scene_148: 1066316184
+      Example Scene_149: 1822615849
+      Example Scene_15: -1932169816
+      Example Scene_150: -781145818
+      Example Scene_151: 204975835
+      Example Scene_152: -1011431613
+      Example Scene_153: 569233336
+      Example Scene_154: 485609325
+      Example Scene_155: 1408484145
+      Example Scene_156: 115594025
+      Example Scene_157: -1830432247
+      Example Scene_158: -1980511427
+      Example Scene_159: -2045388472
+      Example Scene_16: 2101588236
+      Example Scene_160: 44626628
+      Example Scene_161: -2091632768
+      Example Scene_162: 2061315654
+      Example Scene_163: -1802466919
+      Example Scene_164: -764603553
+      Example Scene_165: -1950781965
+      Example Scene_166: 1396627561
+      Example Scene_167: -307876205
+      Example Scene_168: 2012725033
+      Example Scene_169: -1453602679
+      Example Scene_17: 1404338140
+      Example Scene_170: -138040471
+      Example Scene_171: -1149067740
+      Example Scene_172: -351202613
+      Example Scene_173: 1041814146
+      Example Scene_174: 1285426349
+      Example Scene_175: 325614967
+      Example Scene_176: -658851380
+      Example Scene_177: -871731499
+      Example Scene_178: 672334449
+      Example Scene_179: -992438717
+      Example Scene_18: 1065770339
+      Example Scene_180: -1025252962
+      Example Scene_181: -856469560
+      Example Scene_182: 233583726
+      Example Scene_183: -1082845142
+      Example Scene_184: -1298411993
+      Example Scene_185: -1593566351
+      Example Scene_186: -990503280
+      Example Scene_187: -760933778
+      Example Scene_188: -1962667028
+      Example Scene_189: -942022172
+      Example Scene_19: -1928263399
+      Example Scene_190: 1434994739
+      Example Scene_191: -236496294
+      Example Scene_192: 1403391667
+      Example Scene_193: -1788613569
+      Example Scene_194: -1404357801
+      Example Scene_195: 1372359197
+      Example Scene_196: 542829856
+      Example Scene_197: -1798492634
+      Example Scene_198: -1248120991
+      Example Scene_199: 1269876205
+      Example Scene_2: 807598092
+      Example Scene_20: -1653606880
+      Example Scene_200: 130970711
+      Example Scene_201: -872378016
+      Example Scene_202: -1843105797
+      Example Scene_203: 17856918
+      Example Scene_204: 873498031
+      Example Scene_205: -2100802447
+      Example Scene_206: -691749000
+      Example Scene_207: 883305686
+      Example Scene_208: 48218204
+      Example Scene_209: -1717262966
+      Example Scene_21: -946568397
+      Example Scene_210: -1444640780
+      Example Scene_211: 1898225607
+      Example Scene_212: -906534857
+      Example Scene_213: -749959068
+      Example Scene_214: -427634850
+      Example Scene_215: -729394372
+      Example Scene_216: -1338496411
+      Example Scene_217: -45357465
+      Example Scene_218: -1046932330
+      Example Scene_219: -748750993
+      Example Scene_22: -281485975
+      Example Scene_220: 243471123
+      Example Scene_221: -840330150
+      Example Scene_222: -287926197
+      Example Scene_223: 1891827237
+      Example Scene_224: -1804391770
+      Example Scene_225: -1148483829
+      Example Scene_226: 1533376862
+      Example Scene_227: 1040818092
+      Example Scene_228: 1514376258
+      Example Scene_229: 765781721
+      Example Scene_23: -1595422624
+      Example Scene_230: -1732438883
+      Example Scene_231: 1910408252
+      Example Scene_232: -572976345
+      Example Scene_233: 1783451564
+      Example Scene_234: -370639626
+      Example Scene_235: -1787643486
+      Example Scene_236: 262326650
+      Example Scene_237: -513619167
+      Example Scene_238: 1888623086
+      Example Scene_239: -1221895076
+      Example Scene_24: -191849932
+      Example Scene_240: 627618793
+      Example Scene_241: -537820059
+      Example Scene_242: -1601567709
+      Example Scene_243: 907014834
+      Example Scene_244: 1873175400
+      Example Scene_245: -857227489
+      Example Scene_246: 822556988
+      Example Scene_247: 1328974214
+      Example Scene_248: 479951032
+      Example Scene_249: -559147598
+      Example Scene_25: 943390281
+      Example Scene_250: -2104710573
+      Example Scene_251: -585996921
+      Example Scene_252: -1662985384
+      Example Scene_253: -817755772
+      Example Scene_254: -1938767011
+      Example Scene_255: 940754410
+      Example Scene_256: -2087655027
+      Example Scene_257: -1801058948
+      Example Scene_258: 1940880193
+      Example Scene_259: -832306418
+      Example Scene_26: 98353805
+      Example Scene_260: 1623967015
+      Example Scene_261: -1730882349
+      Example Scene_262: 60362288
+      Example Scene_263: 1969108370
+      Example Scene_264: 580805374
+      Example Scene_265: 1336200542
+      Example Scene_266: -25796474
+      Example Scene_267: 59775609
+      Example Scene_268: -1564563906
+      Example Scene_269: 387675617
+      Example Scene_27: 471049326
+      Example Scene_270: 1775659405
+      Example Scene_271: 1322758941
+      Example Scene_28: 1586509479
+      Example Scene_29: 1631301285
+      Example Scene_3: -1198851807
+      Example Scene_30: -1815398453
+      Example Scene_31: -599617656
+      Example Scene_32: 904810128
+      Example Scene_33: -352768442
+      Example Scene_34: 2111074256
+      Example Scene_35: 1915508621
+      Example Scene_36: 1587370949
+      Example Scene_37: -2102514478
+      Example Scene_38: 1487926821
+      Example Scene_39: 1115288292
+      Example Scene_4: 1594298447
+      Example Scene_40: -285256192
+      Example Scene_41: -684308926
+      Example Scene_42: -1505363942
+      Example Scene_43: -1405779236
+      Example Scene_44: -1224506048
+      Example Scene_45: 391741624
+      Example Scene_46: 968449818
+      Example Scene_47: -999032943
+      Example Scene_48: 1663616300
+      Example Scene_49: 1856323278
+      Example Scene_5: 595043839
+      Example Scene_50: -859283134
+      Example Scene_51: 725437829
+      Example Scene_52: -883953531
+      Example Scene_53: -9363934
+      Example Scene_54: -1274538343
+      Example Scene_55: 1079588386
+      Example Scene_56: -1857687176
+      Example Scene_57: 2002381960
+      Example Scene_58: -1936289693
+      Example Scene_59: -1370149880
+      Example Scene_6: 464870156
+      Example Scene_60: -1385347236
+      Example Scene_61: 2025828006
+      Example Scene_62: -1198273404
+      Example Scene_63: 1357092366
+      Example Scene_64: 805232453
+      Example Scene_65: -1532452026
+      Example Scene_66: -2120156667
+      Example Scene_67: 1126886582
+      Example Scene_68: 1360748384
+      Example Scene_69: -503252299
+      Example Scene_7: 1256465767
+      Example Scene_70: -139049848
+      Example Scene_71: -757949822
+      Example Scene_72: 1437494889
+      Example Scene_73: 526243778
+      Example Scene_74: 303199652
+      Example Scene_75: 893390336
+      Example Scene_76: -1546335132
+      Example Scene_77: 433199465
+      Example Scene_78: -392529174
+      Example Scene_79: -385915506
+      Example Scene_8: 1111026885
+      Example Scene_80: -1571745131
+      Example Scene_81: 1386650239
+      Example Scene_82: -501727389
+      Example Scene_83: 1795449356
+      Example Scene_84: -1885834592
+      Example Scene_85: -612419768
+      Example Scene_86: 1215141955
+      Example Scene_87: 1958096826
+      Example Scene_88: -444361665
+      Example Scene_89: 2139552503
+      Example Scene_9: -1962186107
+      Example Scene_90: 2142113124
+      Example Scene_91: -1753230339
+      Example Scene_92: 530919855
+      Example Scene_93: -1859895172
+      Example Scene_94: -735460431
+      Example Scene_95: 454516453
+      Example Scene_96: -1665854364
+      Example Scene_97: 1770346862
+      Example Scene_98: -23825883
+      Example Scene_99: -728040766
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
